@@ -1,0 +1,7 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Dependency files (if not using a lock file)
+# *.pyc
+# __pycache__/
